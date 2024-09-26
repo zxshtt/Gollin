@@ -38,16 +38,16 @@
     <div class="projeto">
         <h3>Sistema de Gerenciamento de Tarefas</h3>
         <p>Um aplicativo simples para gerenciar tarefas diárias utilizando Python e Tkinter.</p>
-        <a href="https://github.com/seu-username/tarefas">Ver no GitHub</a>
+        <a href="https://github.com/gollin/tarefas">Ver no GitHub</a>
     </div>
     <div class="projeto">
         <h3>Página Web de Portfólio Pessoal</h3>
         <p>Um site simples criado com HTML e CSS para exibir meu portfólio de projetos.</p>
-        <a href="https://github.com/seu-username/portfolio">Ver no GitHub</a>
+        <a href="https://github.com/gollin/portfolio">Ver no GitHub</a>
     </div>
 
     <h2>Contato</h2>
-    <p>Email: joao.silva@gmail.com</p>
+    <p>Email: matheusfelipelopesgollin@gmail.com</p>
 </body>
 </html>
 
